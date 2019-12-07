@@ -29,4 +29,4 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 </ul>
 
 
-[Typical Board Meeting Agenda](/typical_agenda)
+[Typical Board Meeting Agenda](/www-board/typical_agenda)
