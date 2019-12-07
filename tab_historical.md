@@ -3,7 +3,7 @@ title: Historical
 layout:  null
 tab: true
 order: 1
-
+tags: board
 ---
 
 ## Historical Meetings
