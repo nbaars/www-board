@@ -11,7 +11,7 @@ tags: board
 {% assign pages = site.pages | sort: 'date' | limit: 1000 %}
 <ul>
 {% for page in pages %}
- {% if page.path contains 'historical-meetings/' %}
+ {% if page.path contains 'historical/' %}
  <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
