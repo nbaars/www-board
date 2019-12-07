@@ -3,7 +3,7 @@
 <ul>
 {% for page in pages %}
  {% if page.path contains 'meetings/' %}
- <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a>{% if page.date %}, {{ page.date }}{% endif %}</li>
+ <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
