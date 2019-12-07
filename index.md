@@ -21,7 +21,7 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 ## Current Membership
 * [Martin Knobloch](mailto:martin.knobloch@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Chair
 * [Owen Pendlebury](mailto:owen.pendlebury@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Vice Chair
-* [Sherif Mansour](mailto:sherif.mansour@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'{:target='_blank'},, Treasurer
+* [Sherif Mansour](mailto:sherif.mansour@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'{:target='_blank'}, Treasurer
 * [Ofer Maor](mailto:ofer.maor@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}, Secretary
 * [Richard Greenberg](mailto:richard.greenberg@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
 * [Gary Robinson](mailto:gary.robinson@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
