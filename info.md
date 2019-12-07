@@ -1,3 +1,6 @@
+### General Info
+The OWASP Global Board typically meets over video-conference on the third Tuesday of each month.
+
 ### Upcoming Meetings
 {% assign pages = site.pages | sort: 'date' | limit: 3 %}
 <ul>
