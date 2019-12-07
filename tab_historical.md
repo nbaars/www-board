@@ -8,7 +8,7 @@ tags: board
 
 ## Historical Meetings
 
-{% assign pages = site.pages | sort: 'date' | limit: 1000 %}
+{% assign pages = site.pages | sort: 'date' | reverse | limit: 1000 %}
 <ul>
 {% for page in pages %}
  {% if page.path contains 'historical/' %}
