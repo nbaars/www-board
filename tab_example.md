@@ -1,11 +1,18 @@
 ---
-title: Example
+title: Historical
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+
 ---
 
-## Example
+## Historical Meetings
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+{% assign pages = site.pages | sort: 'date' | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'historical-meetings/' %}
+ <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
