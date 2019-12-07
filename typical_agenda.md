@@ -1,3 +1,10 @@
+---
+
+layout: col-sidebar
+title: Typical Meeting Agenda
+tags: board
+
+---
 ## Typical Board Meeting Agenda
 
 ### Call to Order
