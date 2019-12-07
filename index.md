@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: Global Board
+tags: board
 
 ---
 
