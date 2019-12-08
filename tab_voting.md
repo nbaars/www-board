@@ -14,6 +14,7 @@ tags: board
  | {{ votes.date }} | {{ votes.result }} | {{ votes.vote }} | {{ votes.motion }} |
 {% endfor %}	
 
+## Board Votes
 
 
 
