@@ -10,7 +10,7 @@ tags: board
 ## Board Actions as list
 
 {% for motions in site.data.votes %}
- <p>{{ motions.date }}<br>{{ motions.motion }}. {{ motions.vote }}. <span style="color:#a7a7a7">{{ motions.result }}</span>. </p>
+ <p>{{ motions.date }}<br>{{ motions.motion }}. {{ motions.vote }}. <span style="color:#ffb366">{{ motions.result }}</span>. </p>
   <hr>
 {% endfor %}	
 
