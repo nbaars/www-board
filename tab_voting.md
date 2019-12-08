@@ -11,12 +11,12 @@ tags: board
 
 <ul>
 {% for motions in site.data.votes %}
- <li>{{ motions.date }} - {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.</li>
+ <li>{{ motions.date }}: {{ motions.motion }}. **{{ motions.result }}**. {{ motions.vote }}.</li>
 {% endfor %}	
 </ul>
 
 {% for motions in site.data.votes %}
- <p>*{{ motions.date }}*: {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.</p>
+ <p>{{ motions.date }}: {{ motions.motion }}. **{{ motions.result }}**. {{ motions.vote }}.</p>
   <hr>
 {% endfor %}	
 
