@@ -8,6 +8,15 @@ tags: board
 
 ## Board Votes
 
+| Date | Result | Motion |
+| ---- | ------ | ------ |
+{% for motions in site.data.votes %}
+ | {{ votes.date }} | {{ votes.result }} | {{ votes.vote }} | {{ votes.motion }} |
+{% endfor %}	
+
+
+
+
 | Date          | Result               | Motion        |
 | ---------------- | ----------------------- | -------------------------------------------------------------------------------- |
 | 2019-09-25  | Passes: 6-0            |  Motion: beginning January 1, 2020 the Foundation has decided to change the profit splits of the Global AppSec events. The split will be 90% to the Foundation and 10% to the Chapters. The Chapter will have the option to give the funds back to the Foundation or the Community Fund. If there is no current active Chapter in the area the full 100% will be given to the Foundation. Ofer Maor motions, Richard Greenberg seconds |
