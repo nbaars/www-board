@@ -16,7 +16,7 @@ tags: board
 </ul>
 
 {% for motions in site.data.votes %}
- *{{ motions.date }}*: {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.
+ <p>*{{ motions.date }}*: {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.</p>
   <hr>
 {% endfor %}	
 
