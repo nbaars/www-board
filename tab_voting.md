@@ -5,13 +5,20 @@ tab: true
 order: 2
 tags: board
 ---
+# UNDER CONSTRUCTION
 
-## Board Votes
+## Board Votes as list
 
-Date | Result | Motion
----- | ------ | ------
+<ul>
 {% for motions in site.data.votes %}
- {{ motions.date }} | {{ motions.result }} | {{ motions.vote }} | {{ motions.motion }}
+ <li>{{ motions.date }} - {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.</li>
+{% endfor %}	
+</ul>
+
+## Board Votes as table
+
+{% for motions in site.data.votes %}
+ {{ motions.date }} | {{ motions.result }} | {{ motions.motion }}
 {% endfor %}	
 
 ## Board Votes
