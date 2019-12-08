@@ -522,11 +522,10 @@
   motion: ""Shall OWASP release the proposed statement?"OWASP Statement on the Security of the Internet 2014 (Yes/Affirm or No/Against)"
   result: "Pass"
   vote: "Michael, Josh, Tom, Fabio, Eoin, Jim, Tobias -"
-"- date: 2014-01-07
-  motion: ""OWASP will terminate the co-marketing agreement with RSA for RSA 2014.This may place our training at risk, but if permitted we will still provide the free training at RSA and the OWASP speaking slot. vote on mailing list (Yes/Affirm or No/Against)""
-  result: ""Pass""
-  vote: ""Michael, Josh, Tobias No - Tom, Fabio
-Abstain - Eoin, Jim"""
+- date: 2014-01-07
+  motion: "OWASP will terminate the co-marketing agreement with RSA for RSA 2014.This may place our training at risk, but if permitted we will still provide the free training at RSA and the OWASP speaking slot. vote on mailing list (Yes/Affirm or No/Against)"
+  result: "Pass"
+  vote: "Michael, Josh, Tobias No - Tom, Fabio. Abstain - Eoin, Jim"
 - date: 2013-12-29
   motion: "Compliance Officer per Whistleblower Policy for 2014 - Martin Knobloch, vote on mailing list"
   result: "Pass (Unanimous)"
@@ -588,7 +587,7 @@ Abstain - Eoin, Jim"""
   result: "Fail"
   vote: "Tom Jim, Michael, Seba, Eoin, Dave"
 - date: 2013-06-10
-  motion: "Vote to modify SECTION 3.03 of OWASP Foundation Bylaws to allow for Board Members not able to attend in person Board Meeting: "and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon" June 10, 2013 Board Meeting Minutes."
+  motion: "Vote to modify SECTION 3.03 of OWASP Foundation Bylaws to allow for Board Members not able to attend in person Board Meeting: 'and shall be highly encouraged to meet in person at least once annually at a date to be announced and agreed upon' June 10, 2013 Board Meeting Minutes."
   result: "Pass"
   vote: "Jim, Michael, Seba, Eoin, Dave Tom"
 - date: 2013-06-03
