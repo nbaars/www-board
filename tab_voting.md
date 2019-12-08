@@ -7,13 +7,19 @@ tags: board
 ---
 # UNDER CONSTRUCTION
 
-## Board Votes as list
+## Board Actions as list
 
 <ul>
 {% for motions in site.data.votes %}
  <li>{{ motions.date }} - {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.</li>
 {% endfor %}	
 </ul>
+
+{% for motions in site.data.votes %}
+ *{{ motions.date }}*: {{ motions.motion }}. {{ motions.result }}. {{ motions.vote }}.
+  <hr>
+{% endfor %}	
+
 
 ## Board Votes as table
 
