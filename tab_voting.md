@@ -9,16 +9,16 @@ tags: board
 
 ## Board Actions as list
 
+{% for motions in site.data.votes %}
+ <p>{{ motions.date }}<br>{{ motions.motion }}. <strong>{{ motions.result }}</strong>. {{ motions.vote }}.</p>
+  <hr>
+{% endfor %}	
+
 <ul>
 {% for motions in site.data.votes %}
  <li>{{ motions.date }}: {{ motions.motion }}. <strong>{{ motions.result }}</strong>. {{ motions.vote }}.</li>
 {% endfor %}	
 </ul>
-
-{% for motions in site.data.votes %}
- <p>{{ motions.date }}: {{ motions.motion }}. <strong>{ motions.result }}</strong>. {{ motions.vote }}.</p>
-  <hr>
-{% endfor %}	
 
 
 ## Board Votes as table
