@@ -5,9 +5,8 @@ tab: true
 order: 2
 tags: board
 ---
-# UNDER CONSTRUCTION
 
-## Board Actions as list
+## Board Actions
 
 {% for motions in site.data.votes %}
  <p>{{ motions.date }}<br>{{ motions.motion }}. {% if motions.result %}<span style="color:#bb8d04">{{ motions.result }}</span>.{% endif%} {% if motions.vote %} {{ motions.vote }}.{% endif %}</p>
