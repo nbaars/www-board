@@ -28,7 +28,7 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 * [Chengxi Wang](mailto:chengxi.wang@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
 
 ## Members-Elect (Terms begin January 2020)
-* [Grant Ongers](grant.ongers@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
+* [Grant Ongers](mailto:grant.ongers@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
 * [Vandana Verma Sehgal](mailto:Vandana.verma@owasp.org?subject=OWASP%20Global%20Board){:target='_blank'}
 
 ## Recent Meetings
