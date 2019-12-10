@@ -13,7 +13,7 @@ The OWASP Foundation Global Board is comprised of seven elected members who serv
 <ul>
 {% for page in pages %}
  {% if page.path contains 'meetings/' %}
- <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ <li>{{ page.date }} - <a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
 </ul>
