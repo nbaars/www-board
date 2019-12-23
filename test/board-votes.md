@@ -1,5 +1,6 @@
 ---
 title: Voting
+layout: col-generic
 
 ---
 
