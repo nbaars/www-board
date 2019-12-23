@@ -1,14 +1,13 @@
 ---
 title: Voting
-layout:  null
-tab: true
-order: 2
-tags: board
+
 ---
 
 
+
 <!-- List motions as paragraphs -->
-{% assign thisdate = "now" | "%Y-%m-%d" %}
+<!-- {% assign thisdate = "now" | "%Y-%m-%d" %} -->
+{% assign thisdate = "" %}
 {% for motions in site.data.votes %}
 {{ thisdate }}<br>
   {% if thisdate != motions.date }}
