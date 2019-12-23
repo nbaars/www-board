@@ -1,4 +1,5 @@
 ---
+
 title: Voting
 layout: col-generic
 
@@ -6,17 +7,16 @@ layout: col-generic
 
 
 
-<!-- List motions as paragraphs -->
-<!-- {% assign thisdate = "now" | "%Y-%m-%d" %} -->
-{% assign thisdate = "2020-01-01" %}
-{% for motions in site.data.votes %}
-{{ thisdate }}<br>
-  {% if thisdate != motions.date }}
-    date: {{ motions.date }}
-    motions:
-    {% assign thisdate = motions.date }}
-  {% endif %}
-     motion: {{ motions.motion }}
-     result: {{ motions.result }}
-     {% if motions.vote %} vote: {{ motions.vote }}.{% endif %}
+{% capture motion_dates %}{% for vote in site.data.votes %}{{ vote.date }}{% if forloop.last == false %}::{% endif%}{% endfor %}{% endcapture %}
+{% assign date_array = motion_dates | split: '::' | uniq %}
+{% for vdate in date_array %}
+<hr>
+{{ vdate | strip }}<br>
+{% for vote in site.data.votes %}
+{% if vdate contains vote.date %}
+<strong>motion</strong>: {{vote.motion}}<br>
+<strong>result</strong>: {{vote.result}}<br>{% if vote.vote %}<strong>vote</strong>: {{vote.vote}}<br>{% endif %}
+<p>
+{% endif %}
+{% endfor %}
 {% endfor %}
