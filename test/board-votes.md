@@ -8,12 +8,12 @@ layout: col-generic
 
 <!-- List motions as paragraphs -->
 <!-- {% assign thisdate = "now" | "%Y-%m-%d" %} -->
-{% assign thisdate = "" %}
+{% assign thisdate = "2020-01-01" %}
 {% for motions in site.data.votes %}
 {{ thisdate }}<br>
   {% if thisdate != motions.date }}
-  date: {{ motions.date }}
-  motions:
+    date: {{ motions.date }}
+    motions:
     {% assign thisdate = motions.date }}
   {% endif %}
      motion: {{ motions.motion }}
