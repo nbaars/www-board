@@ -16,3 +16,14 @@ tags: board
  {% endif %}
 {% endfor %}
 </ul>
+
+## Minutes
+(New and historical ported from wiki.owasp.org)
+{% assign pages = site.pages | sort: 'date' | reverse | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'minutes/' %}
+ <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
