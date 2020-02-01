@@ -27,43 +27,43 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 
 #### General Election Timeline
 
-# Notify the current board member(s) whose term is up
-# Call for Candidates Opens
-# Submission for Questions From the Community for the Candidate Interviews
-# Email Reminder Call For Candidates
-# Email Reminder Call for Questions from the Community
-# Email Reminder Call For Candidates
-# Email Reminder Call for Questions from the Community
-# Email Reminder Call For Candidates
-# Email Reminder Call for Questions from the Community
-# Deadline for Call for Candidates Closes 
-# Deadline for Questions from the Community 
-# Verification of candidates
-# Candidates announced via email and social media
-# The 6-7 top questions from the community will be selected & shared with Candidates 
-# Scheduling of group interviews
-# Email Reminder Membership Required to Vote
-# Group interviews will be held 
-# Email Reminder Membership Required to Vote
-# Deadline for interview recordings to be completed 
-# Recordings posted on the election wiki page
-# Email/Social Media notifying the community the recordings are posted
-# Final Email Reminder Membership Required to Vote
-# Paid Membership Deadline
-# Voting opens
-# Voting closes
-# Results shared with all candidates
-# Results shared via email and social media
+* Notify the current board member(s) whose term is up
+* Call for Candidates Opens
+* Submission for Questions From the Community for the Candidate Interviews
+* Email Reminder Call For Candidates
+* Email Reminder Call for Questions from the Community
+* Email Reminder Call For Candidates
+* Email Reminder Call for Questions from the Community
+* Email Reminder Call For Candidates
+* Email Reminder Call for Questions from the Community
+* Deadline for Call for Candidates Closes 
+* Deadline for Questions from the Community 
+* Verification of candidates
+* Candidates announced via email and social media
+* The 6-7 top questions from the community will be selected & shared with Candidates 
+* Scheduling of group interviews
+* Email Reminder Membership Required to Vote
+* Group interviews will be held 
+* Email Reminder Membership Required to Vote
+* Deadline for interview recordings to be completed 
+* Recordings posted on the election wiki page
+* Email/Social Media notifying the community the recordings are posted
+* Final Email Reminder Membership Required to Vote
+* Paid Membership Deadline
+* Voting opens
+* Voting closes
+* Results shared with all candidates
+* Results shared via email and social media
 
 #### Global Board of Directors Primary Responsibilities
 
-The OWASP Foundation Board of Directors currently consists of seven elected volunteers who serve a [[OWASP Foundation ByLaws|two year term]]. These unpaid volunteers dedicate themselves to the organizational mission and playing a pivotal role in the software security community. Members of the Global Board of Directors are responsible for setting the strategic direction of the organization and ensuring the financial integrity of the Foundation.
+The OWASP Foundation Board of Directors currently consists of seven elected volunteers who serve a two year term. These unpaid volunteers dedicate themselves to the organizational mission and playing a pivotal role in the software security community. Members of the Global Board of Directors are responsible for setting the strategic direction of the organization and ensuring the financial integrity of the Foundation.
 
-Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [https://www.owasp.org/index.php/OWASP_Foundation_ByLaws OWASP Foundation bylaws].  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [[Governance|Governance page]].
+Detailed information on meeting requirements, roles and responsibilities within the board, term limits, and elections is found in the [OWASP Foundation Bylaws](#).  The Board of Directors Code of Conduct and details of the orientation and on-boarding process are found on our [Governance page](#).
 
-Please reach out to our [[About The Open Web Application Security Project|current Board Members]] if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
+Please reach out to our [current Board Members](/www-board/) if you'd like additional information on what it's like to be a Global Board member at the OWASP Foundation.
 
-Additional Responsibilities that the Global Board of Directors must adhere to can be found [[Governance|on the Foundation Governance page]]
+Additional Responsibilities that the Global Board of Directors must adhere to can be found [on the Foundation Governance page](#)
 
 <!-- May need to include some representation of this  '''[[OWASP Board History|Board History]]''' -->
 
