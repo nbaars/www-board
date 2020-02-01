@@ -18,11 +18,11 @@ elections of its Board Members to enable bottom-up advancement of its mission.
 
 ### Recent Board Elections
 <!-- todo: change this to read from elections -->
-* [2019 Board Elections](elections/2019_elections)
-* [2018 Board Elections](elections/2018_elections)
-* [2017 Board Elections](elections/2017_elections)
-* [2016 Board Elections](elections/2016_elections)
-* [2015 Board Elections](elections/2015_elections)
+* [2019 Board Elections](2019_elections)
+* [2018 Board Elections](2018_elections)
+* [2017 Board Elections](2017_elections)
+* [2016 Board Elections](2016_elections)
+* [2015 Board Elections](2015_elections)
 
 
 #### General Election Timeline
