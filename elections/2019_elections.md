@@ -31,6 +31,7 @@ Listed in order of nomination date. Four seats are open for this election.
 * Joe Blanchard, 103
 * Ryan Tierney, 95
 * Ali AlEnezi, 54
+
 512 ballots cast
 
 ### General Election Information 
