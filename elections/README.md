@@ -1,1 +1,1 @@
-### Board Elections Can Go Here
+### Results of Board Elections Can Go Here
