@@ -29,3 +29,14 @@ As part of our recent website migration, we have been migrating old Board conten
  {% endif %}
 {% endfor %}
 </ul>
+
+## Meeting recordings
+
+{% assign pages = site.pages | sort: 'date' | reverse | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'recordings/' %}
+ <li><a href='/www-board{{ page.url }}'>{{ page.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
